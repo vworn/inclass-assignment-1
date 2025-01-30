@@ -13,7 +13,7 @@ if (expenses > 7000) {
 //Task 2
 
 for (let i = 10; i >= 1; i--) {
-    console.log[i];
+    console.log(i);
     
 }
 
@@ -40,5 +40,5 @@ console.log(doublenumber(7));
 //Task 6
 
 const numbers = [3, 6, 9];
-const doubled = num.map(num => num * 2);
-console.log(doubled);
+const squarednumbers = numbers.map(num => num * 2);
+console.log(squarednumbers);
